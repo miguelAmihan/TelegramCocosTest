@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b2ced604-c22c-4ee6-8bcf-879565fe29c4",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "companion_alpha_corgi_walk_side_spritesheet-10": {
+      "ver": "1.0.6",
+      "uuid": "7392212b-31a5-4ebf-a8af-168a33bdecda",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b2ced604-c22c-4ee6-8bcf-879565fe29c4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": 14,
+      "trimX": 29,
+      "trimY": 8,
+      "width": 247,
+      "height": 256,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
